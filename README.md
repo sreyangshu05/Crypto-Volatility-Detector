@@ -32,7 +32,6 @@ The objective of this project is to build a **Crypto Volatility Detector** that 
 - Scikit-Learn
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
 
 ## 📄 Documentation
 The project documentation covers:
